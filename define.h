@@ -2,7 +2,7 @@
 
 struct bank_account
 {
-	int number;
+	long number;
 	std::string name;
 	double balance;
 };
